@@ -30,3 +30,4 @@ function ccg_game_shortcode() {
     return ob_get_clean();
 }
 add_shortcode('color_catcher_game', 'ccg_game_shortcode');
+//ashu project//
